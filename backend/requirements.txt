@@ -1,4 +1,0 @@
-Flask
-openai
-flask-limiter
-flask-cors
